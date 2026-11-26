@@ -5,7 +5,7 @@ No network. Deterministic: the text below IS the entry.
 """
 import os
 
-TEXT = """I watered the wrong ficus and drowned it, then reported it healthy for eleven days. I now log the plant's name, photo and pot before the first drop."""
+TEXT = """I mailed the condolence card to the new client instead of the widow. I now read the name on the envelope twice, once alone, before I seal it."""
 
 
 def main():
